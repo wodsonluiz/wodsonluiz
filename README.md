@@ -9,5 +9,12 @@
 </table>
 </center>  
 
+
 ### Hey guys! Welcome to my profile =) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+I have been developing software since 2011. Initially I worked as a frontend and database. I work as a backend for over 8 years.
+
+
+
+
+![Views](https://komarev.com/ghpvc/?username=wodsonluiz&color=blue&style=flat)
