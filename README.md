@@ -14,7 +14,26 @@
 
 I have been developing software since 2011. Initially I worked as a frontend and database. I work as a backend for over 8 years.
 
+I like:
+- :video_game: Play video game
+- :books: Read good books (favorite author: Isaac Isamov)
+- :tv: Watch movies
+- :meat_on_bone: Barbecue
+- :family: Being with my family
+- :computer: To study
+- :cloud: Cloud computing
 
+For the past two years I have been thinking and raising a personal discussion, "have I been spending my time successfully?". Since then, I have concentrated my efforts on thinking outside the box, outside my comfort and seniority zone. I believe that today, study and knowledge is the only way to achieve this goal. In addition to the .Net / .Net Core, in that time he can learn new technologies:
 
+- Phyton
+- Nodejs
+- DevOps CI/CD (Pipelines of build/deploy in GitHub Actions, cicleCi, CloudFront, Bitbucket)
+- AWS
+- NoSql (basic)
+- Unit Test
+- Scrum, Kanban
+- Kotlin
+- Docker
+- The story continues ... :wink:
 
 ![Views](https://komarev.com/ghpvc/?username=wodsonluiz&color=blue&style=flat)
