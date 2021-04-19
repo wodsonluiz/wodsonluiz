@@ -1,6 +1,4 @@
-![2](https://user-images.githubusercontent.com/13908258/115294779-6978ee80-a12f-11eb-935a-f16daac55469.png)
-
-
+![Banner](https://user-images.githubusercontent.com/13908258/115301874-296a3980-a138-11eb-984f-0785d22e2179.png)
 
 <center>
 <table>
