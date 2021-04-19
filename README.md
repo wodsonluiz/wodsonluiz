@@ -13,11 +13,11 @@
 ### Hey guys! Welcome to my profile =) <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I have been developing software since 2011. Initially I worked as a frontend and database. I work as a backend for over 8 years.
+I work with software development since 2011.Initially I worked as a frontend and database and I work as a backend since 8 years.
 
 I like:
 - :video_game: Play video game
-- :books: Read good books (favorite author: Isaac Isamov)
+- :books: Read good books (My favorite: Isaac Isamov)
 - :tv: Watch movies
 - :meat_on_bone: Barbecue
 - :family: Being with my family
