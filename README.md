@@ -20,7 +20,7 @@ I like:
 - :books: Read good books (My favorite: Isaac Isamov)
 - :tv: Watch movies
 - :meat_on_bone: Barbecue
-- :family: Being with my family
+- :family: Spending time with my family 
 - :computer: To study
 - :cloud: Cloud computing
 
