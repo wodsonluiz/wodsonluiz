@@ -25,7 +25,7 @@ I like:
 - :cloud: Cloud computing
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-For the past two years I have been thinking and raising a personal discussion, "have I been spending my time successfully?". Since then, I have concentrated my efforts on thinking outside the box, outside my comfort and seniority zone. I believe that today, study and knowledge is the only way to achieve this goal. In addition to the .Net / .Net Core, in that time he can learn new technologies:
+In the last two years I was thinking and raising a personal discussion, "Am I spend my time with success?". Since then, I have concentrated my efforts to thinking outside the box, outside my comfort and seniority zone. Nowdays I believe that to study and to knowledge is the only way to achieve this goal. In addition to the .Net / .Net Core, I learned new technologies as:
 
 - Phyton
 - Nodejs
