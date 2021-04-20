@@ -28,7 +28,7 @@ I like:
 In the last two years I was thinking and raising a personal discussion, "Am I spend my time with success?". Since then, I have concentrated my efforts to thinking outside the box, outside my comfort and seniority zone. Nowdays I believe that to study and to knowledge is the only way to achieve this goal. In addition to the .Net / .Net Core, I learned new technologies as:
 
 - Phyton
-- Nodejs
+- Nodejs (Javascript)
 - DevOps CI/CD (Pipelines of build/deploy in GitHub Actions, cicleCi, CloudFront, Bitbucket)
 - AWS
 - NoSql (basic)
