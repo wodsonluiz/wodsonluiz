@@ -36,6 +36,7 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 - Scrum, Kanban
 - Kotlin
 - Docker
+- Terraform
 - The story continues ... :wink:
 
 
