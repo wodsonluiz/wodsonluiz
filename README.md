@@ -29,7 +29,7 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 
 - Phyton
 - Nodejs (Javascript)
-- DevOps CI/CD (Pipelines of build/deploy in GitHub Actions, cicleCi, CloudFront, Bitbucket)
+- DevOps CI/CD (Pipelines of build/deploy in GitHub Actions, cicleCi, AWS CloudFormation, Bitbucket)
 - AWS
 - NoSql (basic)
 - Unit Test
