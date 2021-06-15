@@ -44,6 +44,6 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - [Linkedin](https://www.linkedin.com/in/wodson-luiz-correia)
-- [Email](wodsonluiz@live.com)
+- [Medium](https://wodsonluiz.medium.com/)
 
 ![Views](https://komarev.com/ghpvc/?username=wodsonluiz&color=blue&style=flat)
