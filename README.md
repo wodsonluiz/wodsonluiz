@@ -37,6 +37,7 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 - Kotlin
 - Docker
 - Terraform
+- ElasticSearch
 - The story continues ... :wink:
 
 
