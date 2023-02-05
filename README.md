@@ -17,7 +17,7 @@ I work with software development since 2011.Initially I worked as a frontend and
 
 I like:
 - :video_game: Play video game
-- :books: Read good books (My favorite: Isaac Isamov)
+- :books: Read good books
 - :tv: Watch movies
 - :meat_on_bone: Barbecue
 - :family: Spending time with my family 
@@ -44,7 +44,5 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 #### Where can you find me?
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- [Linkedin](https://www.linkedin.com/in/wodson-luiz-correia)
-- [Medium](https://wodsonluiz.medium.com/)
 
 ![Views](https://komarev.com/ghpvc/?username=wodsonluiz&color=blue&style=flat)
