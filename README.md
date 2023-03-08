@@ -40,9 +40,4 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 - ElasticSearch
 - The story continues ... :wink:
 
-
-#### Where can you find me?
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 ![Views](https://komarev.com/ghpvc/?username=wodsonluiz&color=blue&style=flat)
