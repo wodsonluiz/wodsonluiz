@@ -34,7 +34,7 @@ In the last two years I was thinking and raising a personal discussion, "Am I sp
 - NoSql (MongoDb)
 - Unit Test 
 - Scrum, Kanban
-- Kotlin
+- Kubernetes
 - Docker
 - Terraform
 - ElasticSearch
